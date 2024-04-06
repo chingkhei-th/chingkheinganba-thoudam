@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=3000&pause=1000&color=F7DE8CFF&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Chingkheinganba+Thoudam" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=1000&color=F7DE8CFF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Chingkheinganba+Thoudam" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=1000&color=F7DE8CFF&center=true&vCenter=true&random=false&width=500&lines=Junior+Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </h1>
@@ -71,4 +71,4 @@
 </div>
 <hr/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&duration=4000&pause=1500&color=F7DE8CFF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+your+visit!+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&duration=9000&pause=1500&color=F7DE8CFF&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Thanks+for+your+visit!+%3C3" alt="Typing SVG" /></a>
