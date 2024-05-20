@@ -45,6 +45,7 @@
 </div>
 <hr/>
 
+<!-- BADGES -->
 <div align="center">
   <h2 style="color: #ba8c93;">🏆 | My Badges</h2>
   <br/>
@@ -65,7 +66,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"/>
+  <img src="./images/git_meme.jpg" width="150"/>
 </div>
 
 <br/>
